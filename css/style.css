@@ -1,0 +1,36 @@
+
+div {
+    
+    display: block;
+    width: 80%;
+    height: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+img {
+    width: 25%;
+    margin: 2%;
+  
+}
+h1 {
+   font-size: 50px;
+    text-align: center;
+    color: rgb(240, 88, 0);
+ 
+}
+button{
+    border-radius: 50%;
+    border: none;
+    margin-left: 41%;
+    height: 60px;
+    width: 173px;
+color: rgb(255, 255, 255);
+background-color: rgb(53, 0, 11);
+font-size: 25px;
+}
+li{
+    color: rgb(0, 0, 43);
+    font-size: 20px;
+}
